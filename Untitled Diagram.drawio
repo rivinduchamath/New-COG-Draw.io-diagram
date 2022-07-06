@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T19:08:36.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="BYrN1_Rx26oeNSC3vz9H" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T19:09:35.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="Ca63SrqRA5l9zGPlQ0q2" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2117" dy="3013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1880" dy="2880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1450,7 +1450,7 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-474" value="&lt;font color=&quot;#757575&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;else &lt;br&gt;(accepted Or Confirmed)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="2202.88" y="1370" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-475" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-472">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-475" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.466;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-472" target="aSKBEI42A0uFyndoNrAT-482">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2700" y="1330" as="sourcePoint" />
             <mxPoint x="2200" y="1450" as="targetPoint" />
@@ -1483,8 +1483,8 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-481" value="Condition" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="2139.13" y="1554.5" width="113.25" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-482" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;In Accepted Stage, Check&lt;br&gt;Cancellation Request is Before 24&amp;nbsp;Hours&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2116.25" y="1450" width="183.75" height="60" as="geometry" />
+        <mxCell id="aSKBEI42A0uFyndoNrAT-482" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;In Accepted Stage, Check&lt;br&gt;Cancellation Request is Before 24&amp;nbsp;Hours to Drop off&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2110.75" y="1443.5" width="193.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-485" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;exitX=0.439;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-482" target="aSKBEI42A0uFyndoNrAT-481">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
