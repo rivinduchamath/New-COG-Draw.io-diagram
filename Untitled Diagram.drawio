@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T17:22:39.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="4zVTxUHCyDPmdj_GSNJy" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T17:35:39.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="20UNBUJzBZDULtrshPO2" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1237" dy="3175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="711" dy="2880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -716,7 +716,7 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-297" value="Is Available" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="1018.5" y="1060" width="98" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-298" value="Show Other Fields" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-298" value="Show Other Fields and&lt;br&gt;Price" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1160" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-302" value="&lt;font size=&quot;1&quot; color=&quot;#a6a6a6&quot;&gt;Current &lt;br&gt;Operating Area&amp;nbsp;&lt;br&gt;and Vender added areas&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -1166,6 +1166,12 @@
               <mxPoint x="1210" y="345" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-404" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#474747&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Also We can &lt;br&gt;deliver it to special &lt;br&gt;Locations like&lt;br&gt;&amp;nbsp;Disney World etc. In there it will&lt;br&gt;&amp;nbsp;show some &lt;br&gt;additional Fields&amp;nbsp;to fill&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;box-sizing: border-box; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; outline: 0px; text-align: start; background-color: rgb(255, 255, 255);&quot; id=&quot;sfo_time_window_text&quot;&gt;Pick up Time &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; outline: 0px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;* &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; outline: 0px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;amp; Drop-off time&lt;/span&gt;&lt;i style=&quot;box-sizing: border-box; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; outline: 0px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;little-star&quot;&gt;*&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="1030" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-405" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#575757&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Price Calculation : &lt;br&gt;More than one days Discount,&lt;br&gt;&lt;/font&gt;Delivery Price,&lt;br&gt;Pickup Price&lt;br&gt;Sales Tax City vise,&lt;br&gt;Location Distance&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="888.5" y="1117" width="130" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
