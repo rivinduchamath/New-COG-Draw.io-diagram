@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T17:35:39.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="20UNBUJzBZDULtrshPO2" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T17:35:45.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="0ad0xndO-RdZwOk2a_tf" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="711" dy="2880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -720,7 +720,7 @@
           <mxGeometry x="1000" y="1160" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-302" value="&lt;font size=&quot;1&quot; color=&quot;#a6a6a6&quot;&gt;Current &lt;br&gt;Operating Area&amp;nbsp;&lt;br&gt;and Vender added areas&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1131.25" y="970" width="130" height="60" as="geometry" />
+          <mxGeometry x="1128.5" y="940" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-303" value="&lt;font color=&quot;#858585&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;After Enter the mail&amp;nbsp;&lt;br&gt;&lt;/font&gt;System Will Check the mail is &lt;br&gt;already in the database.&lt;br&gt;&lt;/font&gt;( Mobile Number Cannot enter )&lt;/font&gt;&lt;font color=&quot;#919191&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1141" y="1320" width="140" height="70" as="geometry" />
