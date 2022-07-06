@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T18:02:03.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="JQeQG0X4eWk1-QUDVJHC" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T18:04:00.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="Wh1AigILQFyfZEjfHlkB" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="981" dy="3031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="3420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,7 +114,7 @@
           <mxGeometry x="1700" y="295" width="159" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-79" value="&lt;font size=&quot;1&quot; color=&quot;#a6a6a6&quot;&gt;All Available&amp;nbsp;&lt;br&gt;Cities are &lt;br&gt;Showing in &lt;br&gt;COG&amp;nbsp;Dashboard&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1718" y="338.5" width="100" height="70" as="geometry" />
+          <mxGeometry x="1745" y="227" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-80" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-58" target="aSKBEI42A0uFyndoNrAT-59">
           <mxGeometry relative="1" as="geometry">
@@ -877,10 +877,10 @@
           <mxGeometry x="978" y="110" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-348" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;order Place&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#858585;" vertex="1" parent="1">
-          <mxGeometry x="1236" y="240" width="80" height="30" as="geometry" />
+          <mxGeometry x="1187.25" y="265" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-349" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;Explore item&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#858585;" vertex="1" parent="1">
-          <mxGeometry x="1332.5" y="267" width="90" height="30" as="geometry" />
+          <mxGeometry x="1295.5" y="264" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-350" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;cities&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#858585;" vertex="1" parent="1">
           <mxGeometry x="1477.5" y="233.5" width="50" height="30" as="geometry" />
@@ -1198,7 +1198,7 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-413" value="Order Completed Stage" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="545.5" y="2920" width="150" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-414" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;fontColor=#292929;exitX=0.664;exitY=0.811;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-57">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-414" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;fontColor=#292929;exitX=0.664;exitY=0.811;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-57" target="aSKBEI42A0uFyndoNrAT-418">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1050" y="260" as="sourcePoint" />
             <mxPoint x="1710" y="620" as="targetPoint" />
@@ -1206,21 +1206,30 @@
               <mxPoint x="1366" y="260" />
               <mxPoint x="1470" y="260" />
               <mxPoint x="1470" y="520" />
-              <mxPoint x="1710" y="520" />
+              <mxPoint x="1894" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-415" value="account-settings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontColor=#292929;" vertex="1" parent="1">
-          <mxGeometry x="1447.5" y="419" width="80" height="20" as="geometry" />
+        <mxCell id="aSKBEI42A0uFyndoNrAT-415" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Account-settings&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontColor=#292929;" vertex="1" parent="1">
+          <mxGeometry x="1437.5" y="414" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-416" value="if select" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1662.25" y="740" width="98" height="57" as="geometry" />
+          <mxGeometry x="1845" y="718" width="98" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-418" value="Load Account Setting Page" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1622.5" y="620" width="177.5" height="60" as="geometry" />
+        <mxCell id="aSKBEI42A0uFyndoNrAT-418" value="Load Account Settings Page" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1805.25" y="620" width="177.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-419" value="&lt;font color=&quot;#757575&quot;&gt;Three Main Categories&lt;br&gt;Active Orders&lt;br&gt;Order History&lt;br&gt;Account Settings&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontColor=#292929;" vertex="1" parent="1">
-          <mxGeometry x="1806" y="630" width="100" height="50" as="geometry" />
+          <mxGeometry x="1990" y="625" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-422" value="Load Account Settings Page" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1522.5" y="840" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-423" value="Load Account Settings Page" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="840" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-424" value="Load Account Settings Page" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="840" width="177.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
