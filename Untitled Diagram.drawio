@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T17:43:49.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="azeMQyDkpbdLc1ys9iq9" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T17:51:58.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="IWbPVVLvZmBn_3YwLn4i" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1053" dy="3072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="2965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1126,7 +1126,7 @@
           <mxGeometry x="541" y="2210" width="159" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-398" value="Place order&amp;nbsp; Confirmed&amp;nbsp;&lt;br&gt;Stage" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545.5" y="2310" width="150" height="52" as="geometry" />
+          <mxGeometry x="547.5" y="2310" width="150" height="52" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-399" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;fontColor=#B3B3B3;exitX=0.466;exitY=0.98;exitDx=0;exitDy=0;entryX=0.46;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-336" target="aSKBEI42A0uFyndoNrAT-396">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1173,14 +1173,23 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-405" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#575757&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Price Calculation : &lt;br&gt;More than one days may be Discount,&lt;br&gt;&lt;/font&gt;Delivery Price,&lt;br&gt;Pickup Price&lt;br&gt;Sales Tax City vise,&lt;br&gt;Location Distance,&amp;nbsp;&lt;br&gt;Promo code,&lt;br&gt;Special Discount&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="875" y="1109.5" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-406" value="Place order&amp;nbsp; Confirmed&amp;nbsp;&lt;br&gt;Stage" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="819" y="2310" width="150" height="52" as="geometry" />
+        <mxCell id="aSKBEI42A0uFyndoNrAT-406" value="Order Accepted Stage" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="544" y="2510" width="150" height="52" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-407" value="&lt;span style=&quot;&quot;&gt;Vender Accept&lt;br&gt;&lt;/span&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="536.5" y="2450" width="159" height="50" as="geometry" />
+          <mxGeometry x="541" y="2410" width="159" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-408" value="&lt;font color=&quot;#292929&quot;&gt;Promo code&lt;br&gt;&amp;nbsp;will Add to&lt;br&gt;&amp;nbsp;actual Price of Item.&amp;nbsp;&lt;br&gt;Actual Price = Without Delivery charges&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontColor=#575757;" vertex="1" parent="1">
-          <mxGeometry x="753" y="1155" width="160" height="50" as="geometry" />
+        <mxCell id="aSKBEI42A0uFyndoNrAT-408" value="&lt;font color=&quot;#292929&quot;&gt;Promo code&lt;br&gt;&amp;nbsp;will Add to&lt;br&gt;&amp;nbsp;actual Price of Item.&amp;nbsp;&lt;br&gt;Actual Price = Without Delivery charges&amp;nbsp;&lt;br&gt;and&amp;nbsp;&lt;/font&gt;Pickup&amp;nbsp;&lt;span style=&quot;color: rgb(41, 41, 41);&quot;&gt;charges&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#292929&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontColor=#575757;" vertex="1" parent="1">
+          <mxGeometry x="748" y="1150" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-409" value="if He is repeat customer&lt;br&gt;We can show Card Details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontColor=#292929;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1954.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-410" value="&lt;span style=&quot;&quot;&gt;Vender Drop off Order&lt;br&gt;and Mark as Delivered&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="2610" width="189" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-411" value="Order Delivered Stage" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="2710" width="150" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
