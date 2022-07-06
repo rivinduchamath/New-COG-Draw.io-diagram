@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T19:23:23.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="af6HXaP-OdgsluOvuITr" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T19:36:09.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="45-ie5vAiVl4vIROVlQR" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1982" dy="2937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2354" dy="3146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1116,7 +1116,7 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-397" value="click&amp;nbsp;&lt;br&gt;Confirm&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="541" y="2210" width="159" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-398" value="Place order&amp;nbsp; Confirmed&amp;nbsp;&lt;br&gt;Stage" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-398" value="Place order in Confirmed&amp;nbsp;&lt;br&gt;Stage and Send Email To Customer and Vendor Both" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="547.5" y="2310" width="150" height="52" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-399" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;fontColor=#B3B3B3;exitX=0.466;exitY=0.98;exitDx=0;exitDy=0;entryX=0.46;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-336" target="aSKBEI42A0uFyndoNrAT-396">
@@ -1166,7 +1166,7 @@
           <mxGeometry x="875" y="1109.5" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-406" value="Order Accepted Stage&amp;nbsp;&lt;br&gt;and Take Order Payment" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="544" y="2510" width="150" height="52" as="geometry" />
+          <mxGeometry x="544.5" y="2615" width="150" height="52" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-407" value="&lt;span style=&quot;&quot;&gt;Vender Accept&lt;br&gt;&lt;/span&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="541" y="2410" width="159" height="50" as="geometry" />
@@ -1178,16 +1178,16 @@
           <mxGeometry x="690" y="1954.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-410" value="&lt;span style=&quot;&quot;&gt;Vender Drop off Order&lt;br&gt;and Mark as Delivered&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="526" y="2610" width="189" height="50" as="geometry" />
+          <mxGeometry x="526.5" y="2715" width="189" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-411" value="Order Delivered Stage" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="547.5" y="2710" width="150" height="52" as="geometry" />
+          <mxGeometry x="548" y="2815" width="150" height="52" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-412" value="&lt;span style=&quot;&quot;&gt;Vender Pick up Order&lt;br&gt;and Mark as Pick up&lt;br&gt;&lt;/span&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="526" y="2820" width="189" height="50" as="geometry" />
+          <mxGeometry x="526.5" y="2925" width="189" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-413" value="Order Completed Stage&lt;br&gt;Send Vendor&#39;s Money to his Account" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545.5" y="2920" width="150" height="52" as="geometry" />
+          <mxGeometry x="546" y="3025" width="150" height="52" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-414" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;fontColor=#292929;exitX=0.664;exitY=0.811;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1339,34 +1339,34 @@
             <mxPoint x="760" y="2430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-449" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#757575;exitX=0.437;exitY=1.049;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.45;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-407" target="aSKBEI42A0uFyndoNrAT-406">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-449" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#757575;exitX=0.437;exitY=1.049;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-407">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="2450" as="sourcePoint" />
-            <mxPoint x="680" y="2400" as="targetPoint" />
+            <mxPoint x="610" y="2500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-450" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#757575;exitX=0.462;exitY=1.052;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.456;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-406" target="aSKBEI42A0uFyndoNrAT-410">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="2570" as="sourcePoint" />
-            <mxPoint x="680" y="2520" as="targetPoint" />
+            <mxPoint x="630.5" y="2675" as="sourcePoint" />
+            <mxPoint x="680.5" y="2625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-451" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#757575;exitX=0.45;exitY=1.037;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.424;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-410" target="aSKBEI42A0uFyndoNrAT-411">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="2680" as="sourcePoint" />
-            <mxPoint x="680" y="2630" as="targetPoint" />
+            <mxPoint x="630.5" y="2785" as="sourcePoint" />
+            <mxPoint x="680.5" y="2735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-452" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#757575;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-411" target="aSKBEI42A0uFyndoNrAT-412">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="2790" as="sourcePoint" />
-            <mxPoint x="680" y="2740" as="targetPoint" />
+            <mxPoint x="630.5" y="2895" as="sourcePoint" />
+            <mxPoint x="680.5" y="2845" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-453" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#757575;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-412" target="aSKBEI42A0uFyndoNrAT-413">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="2970" as="sourcePoint" />
-            <mxPoint x="680" y="2920" as="targetPoint" />
+            <mxPoint x="630.5" y="3075" as="sourcePoint" />
+            <mxPoint x="680.5" y="3025" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-454" value="&lt;font color=&quot;#000000&quot;&gt;select Active Orders&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#B3B3B3;" vertex="1" parent="1">
@@ -1542,7 +1542,7 @@
           <mxGeometry x="2383.5" y="1559.5" width="177.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-498" value="&lt;font color=&quot;#919191&quot;&gt;Take Payment Once &lt;br&gt;Vender Accept the Order.&lt;br&gt;Payment Hold By the COG&lt;br&gt;Until Order Complete&amp;nbsp;Stage&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="694.5" y="2495" width="160" height="70" as="geometry" />
+          <mxGeometry x="695" y="2600" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-500" value="&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Admin Cancel&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Once Customer or Vendor Ask to Cancel.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Admin can cancel it even in Delivered Stages also&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#404040&quot; style=&quot;font-size: 13px;&quot;&gt;Auto Cancellation&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Auto Cancel By the System If Vendor Not Accepted&amp;nbsp;Until Required Date&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#919191;" vertex="1" parent="1">
           <mxGeometry x="2600" y="1380" width="370" height="110" as="geometry" />
@@ -1588,6 +1588,15 @@
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-510" value="&lt;font color=&quot;#757575&quot;&gt;false&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1670" y="1523.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-511" value="&lt;span style=&quot;&quot;&gt;Condition&lt;/span&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="559.5" y="2500" width="98" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-512" value="Order Accepted Stage&amp;nbsp;&lt;br&gt;and Take Order Payment" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="747.5" y="2500" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-513" value="&lt;font color=&quot;#6e6e6e&quot; style=&quot;font-size: 10px;&quot;&gt;send Order Summery &lt;br&gt;to Customer and ask &lt;br&gt;from Vendor to &lt;br&gt;Accept Order&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontFamily=Helvetica;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="706.5" y="2296" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
