@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T19:36:09.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="45-ie5vAiVl4vIROVlQR" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T19:46:55.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="JAmtb-I0uFnwKBMKZgmy" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2354" dy="3146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1168,9 +1168,6 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-406" value="Order Accepted Stage&amp;nbsp;&lt;br&gt;and Take Order Payment" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="544.5" y="2615" width="150" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-407" value="&lt;span style=&quot;&quot;&gt;Vender Accept&lt;br&gt;&lt;/span&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="541" y="2410" width="159" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-408" value="&lt;font color=&quot;#292929&quot;&gt;Promo code&lt;br&gt;&amp;nbsp;will Add to&lt;br&gt;&amp;nbsp;actual Price of Item.&amp;nbsp;&lt;br&gt;Actual Price = Without Delivery charges&amp;nbsp;&lt;br&gt;and&amp;nbsp;&lt;/font&gt;Pickup&amp;nbsp;&lt;span style=&quot;color: rgb(41, 41, 41);&quot;&gt;charges&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#292929&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontColor=#575757;" vertex="1" parent="1">
           <mxGeometry x="748" y="1150" width="170" height="60" as="geometry" />
         </mxCell>
@@ -1333,15 +1330,15 @@
             <mxPoint x="1580" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-448" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#757575;exitX=0.436;exitY=1.075;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.455;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-398" target="aSKBEI42A0uFyndoNrAT-407">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-448" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#757575;exitX=0.436;exitY=1.075;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.455;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-398">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="2480" as="sourcePoint" />
-            <mxPoint x="760" y="2430" as="targetPoint" />
+            <mxPoint x="612.3449999999998" y="2410.45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-449" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#757575;exitX=0.437;exitY=1.049;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-407">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-449" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#757575;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.431;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-511" target="aSKBEI42A0uFyndoNrAT-514">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="2450" as="sourcePoint" />
+            <mxPoint x="609.4830000000002" y="2462.45" as="sourcePoint" />
             <mxPoint x="610" y="2500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1589,14 +1586,65 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-510" value="&lt;font color=&quot;#757575&quot;&gt;false&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1670" y="1523.5" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-511" value="&lt;span style=&quot;&quot;&gt;Condition&lt;/span&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="559.5" y="2500" width="98" height="57" as="geometry" />
+        <mxCell id="aSKBEI42A0uFyndoNrAT-511" value="&lt;span style=&quot;&quot;&gt;Time&lt;/span&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="563.5" y="2410" width="98" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-512" value="Order Accepted Stage&amp;nbsp;&lt;br&gt;and Take Order Payment" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="747.5" y="2500" width="150" height="52" as="geometry" />
+        <mxCell id="aSKBEI42A0uFyndoNrAT-512" value="Send Remainder&lt;br&gt;&amp;nbsp;Email to Vendors&lt;br&gt;To Accept" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="762.5" y="2412.5" width="150" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-513" value="&lt;font color=&quot;#6e6e6e&quot; style=&quot;font-size: 10px;&quot;&gt;send Order Summery &lt;br&gt;to Customer and ask &lt;br&gt;from Vendor to &lt;br&gt;Accept Order&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontFamily=Helvetica;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="706.5" y="2296" width="120" height="80" as="geometry" />
+        <mxCell id="aSKBEI42A0uFyndoNrAT-513" value="&lt;font color=&quot;#6e6e6e&quot; style=&quot;font-size: 10px;&quot;&gt;send Order Summery &lt;br&gt;to Customer and ask &lt;br&gt;from Vendor to &lt;br&gt;Accept Order.&lt;br&gt;In Email Vendor can see &lt;br&gt;only the Vendors Commission&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontFamily=Helvetica;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="715" y="2267" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-514" value="&lt;span style=&quot;&quot;&gt;Vender Accept&lt;br&gt;&lt;/span&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="544" y="2510" width="159" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-515" value="with in Time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Helvetica;fontColor=#6E6E6E;" vertex="1" parent="1">
+          <mxGeometry x="605" y="2460" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-516" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=#6E6E6E;strokeColor=#000000;exitX=0.411;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.432;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-514" target="aSKBEI42A0uFyndoNrAT-406">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="2520" as="sourcePoint" />
+            <mxPoint x="670" y="2470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-517" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=#6E6E6E;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-511">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="2520" as="sourcePoint" />
+            <mxPoint x="760" y="2439" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-518" value="Close to System &lt;br&gt;Cancel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Helvetica;fontColor=#6E6E6E;" vertex="1" parent="1">
+          <mxGeometry x="651.5" y="2405" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-519" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=#6E6E6E;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-512" target="aSKBEI42A0uFyndoNrAT-520">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="2500" as="sourcePoint" />
+            <mxPoint x="670" y="2450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-520" value="&lt;span style=&quot;&quot;&gt;Time&lt;/span&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="788.5" y="2506.5" width="98" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-521" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=#6E6E6E;strokeColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.905;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-520" target="aSKBEI42A0uFyndoNrAT-514">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="2500" as="sourcePoint" />
+            <mxPoint x="670" y="2450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-522" value="with in Time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Helvetica;fontColor=#6E6E6E;" vertex="1" parent="1">
+          <mxGeometry x="708.5" y="2506.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-523" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=#6E6E6E;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-520">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="2500" as="sourcePoint" />
+            <mxPoint x="990" y="2535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-524" value="Not Accepted By Vendor&amp;nbsp;&lt;br&gt;Until Drop Off Date" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Helvetica;fontColor=#6E6E6E;" vertex="1" parent="1">
+          <mxGeometry x="868" y="2501.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-525" value="Order Cancel By System" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="992.5" y="2508" width="150" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
