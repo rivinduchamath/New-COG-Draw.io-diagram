@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T19:52:26.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="BjTVxkfg-LGh0g_OJTzW" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T19:54:14.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="OZwbo_EfuYWHTX9zRVRz" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2117" dy="3013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1670,13 +1670,30 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-531" value="Show This Order Accepted" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="728" y="2619" width="150" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-532" value="send Mail to Customer" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="2760" width="150" height="52" as="geometry" />
+        <mxCell id="aSKBEI42A0uFyndoNrAT-532" value="send&amp;nbsp;vendor Accepted Mail to Customer with Accepted Vendor Details" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2690" width="150" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-533" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#757575;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-406" target="aSKBEI42A0uFyndoNrAT-532">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-533" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#757575;exitX=0.004;exitY=0.173;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-406" target="aSKBEI42A0uFyndoNrAT-532">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="675.5" y="2655" as="sourcePoint" />
             <mxPoint x="740" y="2655" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="2770" />
+              <mxPoint x="510" y="2716" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-534" value="send&amp;nbsp;vendor Accepted Mail to Vendor with Order Customer&#39;s Details" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2790" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-535" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=#6E6E6E;strokeColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-406" target="aSKBEI42A0uFyndoNrAT-534">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="2760" as="sourcePoint" />
+            <mxPoint x="680" y="2710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="2800" />
+              <mxPoint x="510" y="2816" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
