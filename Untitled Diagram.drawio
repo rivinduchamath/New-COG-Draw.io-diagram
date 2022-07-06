@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T14:56:02.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="fyS4SWTCp-6ayDJTAWGZ" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T14:56:34.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="Jmyp5HhFxfoYF4sEDoTX" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="3555" dy="4476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="3031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -401,8 +401,8 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-91" value="Load sign Up Page" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="800" y="90" width="155" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-185" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 22px;&quot;&gt;x&lt;/font&gt;&lt;/b&gt;" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1375" y="-2000" width="40" height="40" as="geometry" />
+        <mxCell id="aSKBEI42A0uFyndoNrAT-185" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 25px;&quot;&gt;x&lt;/font&gt;&lt;/b&gt;" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1367.5" y="-2010" width="55" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-186" value="New User Registration" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1075" y="-1410" width="120" height="40" as="geometry" />
@@ -893,8 +893,8 @@
             <mxPoint x="1089.5" y="152.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-284" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 22px;&quot;&gt;x&lt;/font&gt;&lt;/b&gt;" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="-1542.5" width="40" height="40" as="geometry" />
+        <mxCell id="aSKBEI42A0uFyndoNrAT-284" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 32px;&quot;&gt;x&lt;/font&gt;&lt;/b&gt;" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="-1560" width="55" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-285" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-284" target="aSKBEI42A0uFyndoNrAT-186">
           <mxGeometry relative="1" as="geometry">
