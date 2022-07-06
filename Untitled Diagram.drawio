@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T19:08:20.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="iSPi6QCZs5y0M1f4tBfJ" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T19:08:36.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="BYrN1_Rx26oeNSC3vz9H" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2117" dy="3013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1183,7 +1183,7 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-412" value="&lt;span style=&quot;&quot;&gt;Vender Pick up Order&lt;br&gt;and Mark as Pick up&lt;br&gt;&lt;/span&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="526" y="2820" width="189" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-413" value="Order Completed Stage&lt;br&gt;Send Vendors Money" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-413" value="Order Completed Stage&lt;br&gt;Send Vendor&#39;s Money to his Account" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="545.5" y="2920" width="150" height="52" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-414" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;fontColor=#292929;exitX=0.664;exitY=0.811;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-57">
