@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T17:43:38.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="1FBS1itja_DFV9uf-PeS" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T17:43:49.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="azeMQyDkpbdLc1ys9iq9" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="605" dy="2821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1053" dy="3072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1180,7 +1180,7 @@
           <mxGeometry x="536.5" y="2450" width="159" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-408" value="&lt;font color=&quot;#292929&quot;&gt;Promo code&lt;br&gt;&amp;nbsp;will Add to&lt;br&gt;&amp;nbsp;actual Price of Item.&amp;nbsp;&lt;br&gt;Actual Price = Without Delivery charges&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontColor=#575757;" vertex="1" parent="1">
-          <mxGeometry x="737.5" y="1155" width="160" height="50" as="geometry" />
+          <mxGeometry x="753" y="1155" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
