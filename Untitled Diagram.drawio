@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T00:53:07.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="247Be5A5eqmYj-hVbMbb" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T04:54:04.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="x6lowDCO2CpEkFNYb5va" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="5232" dy="4761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2523" dy="3241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-55" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 32px;&quot;&gt;start&lt;/b&gt;&lt;/font&gt;" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="-200" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-56" value="Show COG Dashboard" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-56" value="Show COG Home&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1272.5" y="110" width="155" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-57" value="if select" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
@@ -680,7 +680,7 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-290" value="Add Rental Start And&amp;nbsp;&lt;br&gt;End Date&amp;nbsp;&lt;br&gt;and add Quantity" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="973" y="500" width="184" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-291" value="Check Validity And Availability" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-291" value="Check Validity And Availability" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="997" y="595" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-292" value="If Available" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
@@ -1535,13 +1535,13 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-496" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Cannot Cancel&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2390" y="1310" width="177.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-497" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Cannot Cancel&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-497" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Cancel Order But Not Refund&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2383.5" y="1559.5" width="177.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-498" value="&lt;font color=&quot;#919191&quot;&gt;Take Payment Once &lt;br&gt;Vender Accept the Order.&lt;br&gt;Payment Hold By the COG&lt;br&gt;Until Order Complete&amp;nbsp;Stage&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="703" y="2730" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-500" value="&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#1a1a1a&quot;&gt;&lt;b&gt;Customer Cancel&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Customer Can Can Cancel accept Or Confirmed Stage&lt;/div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Admin Cancel&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Once Customer or Vendor Ask to Cancel.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Admin can cancel it even in Delivered Stages also&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#404040&quot; style=&quot;font-size: 13px;&quot;&gt;Auto Cancellation&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Auto Cancel By the System If Vendor Not Accepted&amp;nbsp;Until Required Date&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#919191;" vertex="1" parent="1">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-500" value="&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#1a1a1a&quot;&gt;&lt;b&gt;Customer Cancel&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Customer Can Can Cancel accept Or Confirmed Stage&lt;/div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Admin Cancel&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Once Customer or Vendor Ask to Cancel.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Admin can cancel it even in Delivered Stages also Always Refund&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#404040&quot; style=&quot;font-size: 13px;&quot;&gt;Auto Cancellation&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Auto Cancel By the System If Vendor Not Accepted&amp;nbsp;Until Required Date&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#919191;" vertex="1" parent="1">
           <mxGeometry x="2600" y="1360" width="370" height="150" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-501" value="validity&amp;nbsp;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
@@ -1704,6 +1704,33 @@
             <mxPoint x="840" y="3090" as="sourcePoint" />
             <mxPoint x="890" y="3040" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-538" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=29;fontColor=#6E6E6E;strokeColor=#000000;exitX=0.466;exitY=1.018;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.451;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-397" target="aSKBEI42A0uFyndoNrAT-398">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="2230" as="sourcePoint" />
+            <mxPoint x="480" y="2180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-539" value="&lt;font color=&quot;#6e083e&quot;&gt;Priority list to vendor&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;fontFamily=Helvetica;fontColor=#6E6E6E;" vertex="1" parent="1">
+          <mxGeometry x="795" y="2285" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-541" value="System Add damage waiver and add damage waiver&amp;nbsp; Fee to Final Bill" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="2501.5" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-542" value="&lt;span style=&quot;&quot;&gt;Add damage waiver&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2496.5" width="159" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-543" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=29;fontColor=#6E083E;strokeColor=#000000;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-398" target="aSKBEI42A0uFyndoNrAT-544">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="2330" as="sourcePoint" />
+            <mxPoint x="560" y="2280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="473" y="2362" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-544" value="&lt;span style=&quot;&quot;&gt;Add &lt;br&gt;Damage &lt;br&gt;Waiver&lt;/span&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424.5" y="2407.5" width="98" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
