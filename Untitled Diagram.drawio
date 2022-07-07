@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T04:54:04.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="x6lowDCO2CpEkFNYb5va" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T04:56:19.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="08M4LL3Sg5GSIpQYkD05" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2523" dy="3241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1715,22 +1715,52 @@
           <mxGeometry x="795" y="2285" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-541" value="System Add damage waiver and add damage waiver&amp;nbsp; Fee to Final Bill" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="2501.5" width="150" height="52" as="geometry" />
+          <mxGeometry x="240" y="2509" width="150" height="52" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-542" value="&lt;span style=&quot;&quot;&gt;Add damage waiver&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="2496.5" width="159" height="50" as="geometry" />
+          <mxGeometry x="240" y="2411" width="159" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-543" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=29;fontColor=#6E083E;strokeColor=#000000;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-398" target="aSKBEI42A0uFyndoNrAT-544">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-543" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=29;fontColor=#6E083E;strokeColor=#000000;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.556;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-398" target="aSKBEI42A0uFyndoNrAT-542">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="2330" as="sourcePoint" />
             <mxPoint x="560" y="2280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="473" y="2362" />
+              <mxPoint x="330" y="2360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-544" value="&lt;span style=&quot;&quot;&gt;Add &lt;br&gt;Damage &lt;br&gt;Waiver&lt;/span&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="424.5" y="2407.5" width="98" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-545" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=29;fontColor=#6E083E;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-544" target="aSKBEI42A0uFyndoNrAT-511">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="2310" as="sourcePoint" />
+            <mxPoint x="560" y="2260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-546" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=29;fontColor=#6E083E;strokeColor=#000000;exitX=0.905;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-542" target="aSKBEI42A0uFyndoNrAT-544">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="2310" as="sourcePoint" />
+            <mxPoint x="560" y="2260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-547" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=29;fontColor=#6E083E;strokeColor=#000000;exitX=0.429;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-544" target="aSKBEI42A0uFyndoNrAT-541">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="2310" as="sourcePoint" />
+            <mxPoint x="560" y="2260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="467" y="2535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-548" value="System Send Msg to Vendor and customer both&lt;br&gt;to inform Added Damage Waiver" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="2503.25" width="150" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aSKBEI42A0uFyndoNrAT-549" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=29;fontColor=#6E083E;strokeColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-541" target="aSKBEI42A0uFyndoNrAT-548">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="2300" as="sourcePoint" />
+            <mxPoint x="560" y="2250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
