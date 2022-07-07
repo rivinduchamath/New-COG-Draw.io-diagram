@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T05:04:07.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="KPU0TT_l0xHJDTrAUv1r" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T05:36:48.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="n0uBJhHM0tH7-uUvlNTf" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="5909" dy="5141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2591" dy="3279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1377,9 +1377,6 @@
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-457" value="&lt;font color=&quot;#000000&quot;&gt;select Modify Orders&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="1719.5" y="1013" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-458" value="&lt;font color=&quot;#000000&quot;&gt;select Damage Waiver&amp;nbsp;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;* May Be Not In New COG&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="1069.5" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-459" value="&lt;font color=&quot;#000000&quot;&gt;Cancel Orders&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="1990" y="1013" width="90" height="30" as="geometry" />
