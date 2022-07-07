@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T05:36:48.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="n0uBJhHM0tH7-uUvlNTf" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T05:39:07.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="-yh4uWf0yBjf5c-RmeM5" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2591" dy="3279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -749,13 +749,13 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-316" value="Remove Order From&amp;nbsp;&lt;br&gt;Cart" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="1237" width="159" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-317" value="&lt;span style=&quot;&quot;&gt;Remove Order From&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;&quot;&gt;Both&amp;nbsp;&lt;span style=&quot;&quot;&gt;Cart table and&lt;/span&gt;&lt;br&gt;&amp;nbsp;Pre-Abandoned table&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-317" value="&lt;span style=&quot;&quot;&gt;Remove Order From&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;&quot;&gt;Both&amp;nbsp;&lt;span style=&quot;&quot;&gt;Cart table and&lt;/span&gt;&lt;br&gt;&amp;nbsp;Pre-Abandoned table&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="190" y="1237.5" width="153" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-318" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;Remove Order From&amp;nbsp;&lt;br&gt;Cart" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="519.5" y="1430" width="159" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-319" value="&lt;span style=&quot;&quot;&gt;Remove Order From&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Cart and&lt;/span&gt;&lt;br&gt;&amp;nbsp;Abandoned table Both" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-319" value="&lt;span style=&quot;&quot;&gt;Remove Order From&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Cart and&lt;/span&gt;&lt;br&gt;&amp;nbsp;Abandoned table Both" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="522.5" y="1340" width="153" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-320" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#858585;exitX=0.44;exitY=0.93;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.595;entryY=-0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSKBEI42A0uFyndoNrAT-312" target="aSKBEI42A0uFyndoNrAT-309">
@@ -795,7 +795,7 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-329" value="Remove Order From&amp;nbsp;&lt;br&gt;Cart" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="1169" y="1713.5" width="159" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-330" value="&lt;span style=&quot;&quot;&gt;Remove Order From&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Cart and&lt;/span&gt;&lt;br&gt;&amp;nbsp;Abandoned table Both" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-330" value="&lt;span style=&quot;&quot;&gt;Remove Order From&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Cart and&lt;/span&gt;&lt;br&gt;&amp;nbsp;Abandoned table Both" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1331" y="1780" width="153" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-331" value="enter Mobile &lt;br&gt;and click Next" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
@@ -810,7 +810,7 @@
         <mxCell id="aSKBEI42A0uFyndoNrAT-334" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 22px;&quot;&gt;X&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fontSize=9;strokeWidth=2;fillColor=#919191;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1405" y="1908.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aSKBEI42A0uFyndoNrAT-335" value="Show Card Payment&lt;br&gt;Page" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="aSKBEI42A0uFyndoNrAT-335" value="Show Card Payment&lt;br&gt;Page" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="550" y="1902.5" width="150" height="52" as="geometry" />
         </mxCell>
         <mxCell id="aSKBEI42A0uFyndoNrAT-336" value="&lt;span style=&quot;&quot;&gt;Add Card Data&lt;br&gt;&lt;/span&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
